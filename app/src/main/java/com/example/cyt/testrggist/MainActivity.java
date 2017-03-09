@@ -22,6 +22,9 @@ import okhttp3.Request;
 import okhttp3.RequestBody;
 import okhttp3.Response;
 
+/**
+ * 这个类是主页
+ */
 public class MainActivity extends Activity {
     private EditText pas;
     private EditText us;
